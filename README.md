@@ -1,0 +1,1 @@
+Developed a responsive task management application using React.js and Tailwind CSS. Implemented features for adding, editing, and deleting tasks, enhancing user productivity. Utilized React hooks for efficient state management and dynamic UI updates.
